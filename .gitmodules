@@ -1,3 +1,6 @@
 [submodule "todo_App"]
 	path = todo_App
 	url = https://github.com/rodrickcalvin/ALX-FS-TodoApp.git
+[submodule "Fyurr-Artist-Venue-booking-site"]
+	path = Fyurr-Artist-Venue-booking-site
+	url = https://github.com/rodrickcalvin/Fyurr-Artist-Venue-booking-site.git
