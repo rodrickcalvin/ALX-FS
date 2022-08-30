@@ -4,3 +4,6 @@
 [submodule "Fyurr-Artist-Venue-booking-site"]
 	path = Fyurr-Artist-Venue-booking-site
 	url = https://github.com/rodrickcalvin/Fyurr-Artist-Venue-booking-site.git
+[submodule "React-FR---Flask-API"]
+	path = React-FR---Flask-API
+	url = https://github.com/rodrickcalvin/React-FR---Flask-API.git
