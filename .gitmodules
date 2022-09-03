@@ -7,3 +7,6 @@
 [submodule "React-FR---Flask-API"]
 	path = React-FR---Flask-API
 	url = https://github.com/rodrickcalvin/React-FR---Flask-API.git
+[submodule "Trivia-Question-App"]
+	path = Trivia-Question-App
+	url = https://github.com/rodrickcalvin/Trivia-Question-App.git
