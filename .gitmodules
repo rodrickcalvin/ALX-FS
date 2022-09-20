@@ -10,3 +10,6 @@
 [submodule "Trivia-Question-App"]
 	path = Trivia-Question-App
 	url = https://github.com/rodrickcalvin/Trivia-Question-App.git
+[submodule "Coffee_shop_full_stack"]
+	path = Coffee_shop_full_stack
+	url = https://github.com/rodrickcalvin/Coffee-shop-app.git
