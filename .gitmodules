@@ -13,3 +13,6 @@
 [submodule "Coffee_shop_full_stack"]
 	path = Coffee_shop_full_stack
 	url = https://github.com/rodrickcalvin/Coffee-shop-app.git
+[submodule "Server-Deployment-and-Containerization"]
+	path = Server-Deployment-and-Containerization
+	url = https://github.com/rodrickcalvin/Server-Deployment-and-Containerization.git
